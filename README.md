@@ -1,3 +1,4 @@
+<!--
 - 👋 Hi, I’m @minuschuman
 - I’m a web developer, especially backend<!--👀 I’m interested in ...-->
 - I’m currently learning android <!-- #🌱 I’m currently learning ...--> <!--- I’m looking to collaborate on some kind of project #💞️ I’m looking to collaborate on ...-->
