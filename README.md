@@ -1,12 +1,8 @@
-# About Me
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
-    Welcome to my GitHub profile! I'm Chuman, a passionate Developer. I'm enthusiastic about <b>Backend Development</b>, and I love to contribute to open-source projects and share my knowledge with the developer community.
-  </div>
-  <div style="width: 200px; height: 200px; overflow: hidden; border-radius: 50%;">
-    <img src="https://avatars.githubusercontent.com/u/52157369" alt="My Profile Picture" style="width: 100%; height: 100%; object-fit: cover;">
-  </div>
-</div>
+# Chuman Shrestha
+
+Welcome to my GitHub profile! I'm Chuman, a passionate Developer. I'm enthusiastic about **Backend Development**, and I love to contribute to open-source projects and share my knowledge with the developer community.
+
+## About Me
 
 - 💼 Backend Developer at Waterflow Technology
 - 🎓 Graduated from Tribhuvan with a degree in Bachelor of Computer Application
