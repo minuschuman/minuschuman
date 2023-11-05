@@ -1,5 +1,7 @@
 # Chuman Shrestha
 
+<img align="right" width="250" height="250" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/52157369?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d">
+
 Welcome to my GitHub profile! I'm Chuman, a passionate Developer. I'm enthusiastic about **Backend Development**, and I love to contribute to open-source projects and share my knowledge with the developer community.
 
 ## About Me
@@ -12,6 +14,7 @@ Welcome to my GitHub profile! I'm Chuman, a passionate Developer. I'm enthusiast
 ## My Interests
 
 I'm deeply interested in:
+
 - DevOps
 - Cloud Computing
 - Computer Networking
