@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Chuman, a passionate Developer. I'm enthusiast
 
 ## About Me
 
-- 💼 Backend Developer at Waterflow Technology
+<!-- - 💼 Backend Developer at --> 
 - 🎓 Graduated from Tribhuvan with a degree in Bachelor of Computer Application
 - 🌍 Located in Nepal
 - 📧 You can reach me at mail@chuman.com.np
@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I'm Chuman, a passionate Developer. I'm enthusiast
 I'm deeply interested in:
 
 - DevOps
-- Cloud Computing
-- Computer Networking
 
 ## Get in Touch
 
