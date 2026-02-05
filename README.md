@@ -1,33 +1,35 @@
-# Chuman Shrestha
+# Hi there, I'm Chuman Shrestha 👋
 
 <img align="right" width="200" height="200" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/52157369?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d">
 
-Welcome to my GitHub profile! I'm Chuman, a passionate Developer. I'm enthusiastic about **Backend Development**, and I love to contribute to open-source projects and share my knowledge with the developer community.
+**Mid-Level Software Engineer (PHP / Laravel)**
 
-## About Me
+I am a Backend-focused Full Stack Developer with over 5 years of professional experience building scalable SaaS platforms, robust RESTful APIs, and complex web applications. I specialize in system architecture, payment integrations, asynchronous background processing, and modernizing legacy codebases.
 
-<!-- - 💼 Backend Developer at --> 
-- 🎓 Graduated from Tribhuvan with a degree in Bachelor of Computer Application
-- 🌍 Located in Nepal
-- 📧 You can reach me at mail@chuman.com.np
+---
 
-## My Interests
+### 💻 Tech Stack & Tools
 
-I'm deeply interested in:
+*   **Languages:** PHP, Python, JavaScript
+*   **Frameworks:** Laravel, React, Livewire, Blade, FastAPI
+*   **Databases:** MySQL, Redis
+*   **DevOps & Cloud:** Sakura Cloud / AWS, CI/CD, Docker
+*   **Architecture:** Event-Driven Systems, Background Jobs, RESTful APIs, SSO (Keycloak)
+*   **AI Integrations:** Google Gemini, Qwen Coder, GitHub Copilot
 
-- DevOps
+---
 
-## Get in Touch
+### 🚀 What I Do
 
-Feel free to reach out to me through:
+*   Architecting and scaling **Enterprise SaaS Billing Platforms** (handling Stripe webhooks, PDF generation, and automated emails).
+*   Optimizing high-traffic **Learning Management Systems (LMS)** to drastically reduce database query times and improve load speeds.
+*   Building independent **AI-OCR microservices** and integrating them into core Laravel applications via webhooks.
+*   Securing applications by patching critical vulnerabilities (JWT, XSS, CSRF) and implementing Role-Based Access Control (RBAC).
 
-- [Twitter](https://twitter.com/chumanstha)
-- [LinkedIn](https://www.linkedin.com/in/chumanstha)
-- [Personal Website](https://www.chuman.com.np)
-- [Email](mailto:mail@chuman.com.np)
+---
 
-Let's connect and collaborate on exciting projects!
+### 📫 Let's Connect!
 
-## License
-
-This profile README is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+*   **LinkedIn:** [linkedin.com/in/chumanstha](https://www.linkedin.com/in/chumanstha/)
+*   **Email:** mail@chuman.com.np
+*   **Location:** Kathmandu, Nepal
